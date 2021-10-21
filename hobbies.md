@@ -4,11 +4,11 @@ author_profile: true
 permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
-modified: 9-14-2019
+modified: 21-10-2021
 comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
-
-
+* [Watch movies and series](https://www.film2media.website)
+* [Play chess]
+* [Swimming]

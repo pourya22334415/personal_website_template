@@ -1,16 +1,16 @@
 ---
 layout: posts
-title: Test Post
+title: my friends
 ---
 
-## This is my team at Microsoft
+## This photo is of my best friends
 People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+- Mohammad
+- Heidar
+- Amirhossein
+- Mohammadreza
 
-[my favorite website](http://www.google.com)
+[my favorite website](https://www.film2media.website)
 
 kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
 kfajdskfajsdf sakd fjksad jfksdj fksdj f
@@ -20,4 +20,3 @@ kfajdskfajsdf sakd fjksad jfksdj fksdj f
 ![alt text](../assets/images/grouppic.jpg "Team Picture")
 
 ---
-**Test**: This is atest

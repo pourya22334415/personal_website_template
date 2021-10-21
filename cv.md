@@ -4,7 +4,7 @@ author_profile: true
 permalink: /cv/
 title: Resume
 tags: [resume, cv]
-modified: 20-10-2021
+modified: 21-10-2021
 comments: false
 ---
 
