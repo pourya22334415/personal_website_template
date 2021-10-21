@@ -10,6 +10,5 @@ comments: false
 
 
 * [Favorite Author](https://en.wikipedia.org/wiki/Sadegh_Hedayat)
-* [Places I want to visit](https://www.film2media.website/)
-* [My home city](https://www.bing.com/images/search?q=Lorestan+Iran&form=HDRSC3&first=1&tsc=ImageBasicHover)
-* [My university](https://www.bing.com/images/search?view=detailV2&ccid=x7p%2bqX2Q&id=9B5798186A884C16971601121F032990DE16F09D&thid=OIP.x7p-qX2Qo9BQwns7iYM0SwHaD6&mediaurl=https%3a%2f%2fmedia.mehrnews.com%2fd%2f2018%2f09%2f14%2f4%2f2896559.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c7ba7ea97d90a3d050c27b3b8983344b%3frik%3dnfAW3pApAx8SAQ%26pid%3dImgRaw%26r%3d0&exph=529&expw=1000&q=Iran+University+of+Science+and+Technology&simid=608029281777295034&FORM=IRPRST&ck=92764206454348E3A1EE4518CD9BC63D&selectedIndex=24&ajaxhist=0&ajaxserp=0)
+* [Places I want to visit](https://kafebook.ir/%D8%B5%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8%DB%8C-%DA%A9%D9%87-%D9%BE%DB%8C%D8%B4-%D8%A7%D8%B2-%D9%85%D8%B1%DA%AF-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%AE%D9%88%D8%A7%D9%86%D8%AF/)
+* [My university](https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D8%B9%D9%84%D9%85_%D9%88_%D8%B5%D9%86%D8%B9%D8%AA_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
