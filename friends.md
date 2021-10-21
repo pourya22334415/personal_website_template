@@ -9,9 +9,6 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [عرفان کلندی](erfan-kalandi.github.io)
-* [امیر پاشازاده](amirpashazadeh.github.io)
-* [پویا آبنیکی](Pouyaabniki.github.io)
-
-
-
+* [عرفان کلندی](erfan-kalandi.github.io/personal_website_template)
+* [امیر پاشازاده](amirpashazadeh.github.io/personal_website_template)
+* [پویا آبنیکی](Pouyaabniki.github.io/personal_website_template)
