@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* [Watch movies and series](https://www.film2media.website)
-* [Play chess]
-* [Swimming]
+* Watch movies and series
+* Plaing chess
+* Swimming
