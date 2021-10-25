@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* Watch movies and series
+* Watch movies
 * Plaing chess
 * Swimming
